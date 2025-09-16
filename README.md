@@ -126,8 +126,8 @@ Predicted Label: CustomerB
 
 | Customer                     | Sample Image                                                                        | Predicted                        |
 | ---------------------------- | ----------------------------------------------------------------------------------- | -------------------------------- |
-| HealthCare Fright and Supply | ![CustomerA Sample](Datasets/HealthCare Fright and Supply/purchase-order-example.png) | ✅ HealthCare Fright and Supply |
-| PurchaseControl              | ![CustomerB Sample](Datasets/PurchaseControl/image1-1-902x1024.png)                   | ✅ PurchaseControl              |
+| HealthCare Fright and Supply | ![CustomerA Sample](Datasets_Example/Steel Bear Ltd/624d62beb7135577fa543a8d_Sample-Purchase-Order.jpeg) | ✅ HealthCare Fright and Supply |
+| PurchaseControl              | ![CustomerB Sample](./Datasets_Example/PurchaseControl/image1-1-902x1024.png)                   | ✅ PurchaseControl              |
 
 ---
 
