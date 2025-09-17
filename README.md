@@ -16,7 +16,6 @@ This project is designed to classify Purchase Orders (POs) or other customer-spe
 
 ---
 
-
 ## 🖼️ Prepare Dataset from PDFs
 
 If your data is currently in **PDF format**, you can convert it into images before training.
@@ -55,7 +54,6 @@ Datasets/
 
 - Each folder represents a **class** (customer name).
 - You can use `.jpg`, `.jpeg`, or `.png` images.
-
 
 ### Convert PDFs to Images:
 
@@ -124,10 +122,10 @@ Predicted Label: CustomerB
 
 ## 📊 Example Results
 
-| Customer                     | Sample Image                                                                        | Predicted                        |
-| ---------------------------- | ----------------------------------------------------------------------------------- | -------------------------------- |
-| HealthCare Fright and Supply | ![CustomerA Sample](Datasets_Example/Steel Bear Ltd/624d62beb7135577fa543a8d_Sample-Purchase-Order.jpeg) | ✅ HealthCare Fright and Supply |
-| PurchaseControl              | ![CustomerB Sample](./Datasets_Example/PurchaseControl/image1-1-902x1024.png)                   | ✅ PurchaseControl              |
+| Customer                     | Sample Image                                                                | Predicted                        |
+| ---------------------------- | --------------------------------------------------------------------------- | -------------------------------- |
+| HealthCare Fright and Supply | ![CustomerA Sample]()                                                         | ✅ HealthCare Fright and Supply |
+| PurchaseControl              | ![CustomerB Sample](./Datasets_Example/PurchaseControl/image1-1-902x1024.png) | ✅ PurchaseControl              |
 
 ---
 
