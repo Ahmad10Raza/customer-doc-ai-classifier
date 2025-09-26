@@ -7,6 +7,10 @@ This project is designed to classify Purchase Orders (POs) or other customer-spe
 
 ## 🚀 Features
 
+### Architecture Diagram
+
+![Arch](https://raw.githubusercontent.com/Ahmad10Raza/customer-doc-ai-classifier/refs/heads/master/Classifier.png)
+
 - ✅ **Simple folder-based dataset input** (no CSV/annotation files required)
 - ✅ **Fine-tunes `google/vit-base-patch16-224` using Hugging Face Transformers**
 - ✅ **Automatic train/validation split (90/10)**
